@@ -1,5 +1,5 @@
 #apresentação e entrada dos valores
-print('Bem-Vindo a loja do Luis Fernando Duarte 4660126')
+print('Bem-Vindo a loja do Luis Fernando')
 valor = float(input('Entre com o valor unitário do produto:R$'))
 quantia = int(input('Entre com a quantidade do produto:'))
 #calculo do total e condições de desconto
