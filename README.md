@@ -1,4 +1,1 @@
-O codigo consiste em uma calculadora que determina atraves de entradas de valores e quantidade de produtos,se o cliente tem direito ou não ao desconto,o valor do desconto é predeterminado.
-Acima de certa quantia o desconto aumenta.
-Caso o valor ou a quantia seja igual a 0 ocorrera um erro.
-um loop acontece caso o preço ou quantidade não sejam validas.
+O código implementa uma calculadora que, a partir das entradas de valor e quantidade de produtos, avalia se o cliente tem direito a um desconto. O desconto é predeterminado, mas aumenta caso a quantidade ultrapasse um certo limite. Se o valor ou a quantidade forem iguais a 0, um erro é gerado. Além disso, um loop é acionado se os valores inseridos para preço ou quantidade não forem válidos.
